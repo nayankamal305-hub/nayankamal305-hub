@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nayan Kamal 👋</h1>
+<h1 align="center">Hi there, I'm Kamal Nayan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Full-Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
