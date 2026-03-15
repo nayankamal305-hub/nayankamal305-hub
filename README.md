@@ -89,3 +89,31 @@
 </p>
 
 <p align="center">⭐ <em>Feel free to explore my repositories and drop a star if you like something!</em> ⭐</p>
+
+---
+
+## 🤝 Open Source & Contributions
+
+I love contributing to open source! Here's how you can collaborate with me:
+
+- 🔍 Browse my repositories and look for **issues labeled `good first issue`** or `help wanted`
+- 👋 **Fork** any repository you find interesting
+- 📝 **Create a branch** for your feature or fix: `git checkout -b feature/your-feature-name`
+- ✅ **Commit** your changes with a clear message: `git commit -m 'feat: add amazing feature'`
+- 🚀 **Push** and open a **Pull Request** — I review PRs quickly!
+- 💬 Feel free to **open issues** for bugs, ideas, or feature requests
+
+> ⚡ **Good First Issues are always welcome!** Whether it's fixing a typo, improving docs, or adding a small feature — every contribution matters.
+
+---
+
+## 📜 Contribution Guidelines
+
+- Follow the existing code style and structure
+- Write meaningful commit messages (use Conventional Commits: `feat:`, `fix:`, `docs:`, `chore:`)
+- Add comments for complex logic
+- Test your changes before submitting a PR
+- Be respectful and constructive in code reviews
+- Reference related issues in your PR description
+
+<p align="center">⭐ <em>Feel free to explore my repositories and drop a star if you like something!</em> ⭐</p>
